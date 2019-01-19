@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f2c439f88a30d1b40824e5ffb5e4ba63
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crack: {instanceID: 0}
+  - boomObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
